@@ -1,0 +1,26 @@
+<annotation>
+	<folder>utility_pole_test</folder>
+	<filename>caesar-f-O3q88_07r1Y-unsplash.jpg</filename>
+	<path>F:\capstone\new images\utility_pole_test\caesar-f-O3q88_07r1Y-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2173</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>427</xmin>
+			<ymin>149</ymin>
+			<xmax>783</xmax>
+			<ymax>799</ymax>
+		</bndbox>
+	</object>
+</annotation>

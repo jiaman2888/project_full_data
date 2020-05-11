@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dianxiangan</folder>
+	<filename>tomas-sala-Dh7YJhrIREk-unsplash.jpg</filename>
+	<path>F:\capstone\dianxiangan\tomas-sala-Dh7YJhrIREk-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>502</xmin>
+			<ymin>133</ymin>
+			<xmax>600</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

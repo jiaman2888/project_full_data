@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dianxiangan</folder>
+	<filename>mikko-jarvenpaa-NS6IdWL4hBg-unsplash.jpg</filename>
+	<path>F:\capstone\dianxiangan\mikko-jarvenpaa-NS6IdWL4hBg-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5893</width>
+		<height>3929</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>321</xmin>
+			<ymin>629</ymin>
+			<xmax>2746</xmax>
+			<ymax>3929</ymax>
+		</bndbox>
+	</object>
+</annotation>

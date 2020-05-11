@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bike_all</folder>
+	<filename>118.jpg</filename>
+	<path>/Users/hushengzhe/Desktop/Bike_all/118.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bike_toward</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>553</ymin>
+			<xmax>527</xmax>
+			<ymax>1024</ymax>
+		</bndbox>
+	</object>
+</annotation>

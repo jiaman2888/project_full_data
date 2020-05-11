@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5.4 away-not labeled</folder>
+	<filename>04123.jpg</filename>
+	<path>D:\5.4 away-not labeled\04123.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>253</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vehicle_away</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>26</ymin>
+			<xmax>339</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>

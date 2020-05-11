@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>nature-sky-twilight-grass-9198.jpg</filename>
+	<path>F:\capstone\new images\tree\nature-sky-twilight-grass-9198.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>331</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>93</ymin>
+			<xmax>335</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>

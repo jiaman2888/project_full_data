@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>cordia-sebestena-tree-3.jpg</filename>
+	<path>F:\capstone\new images\tree\cordia-sebestena-tree-3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>867</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>42</ymin>
+			<xmax>575</xmax>
+			<ymax>801</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dianxiangan</folder>
+	<filename>gribgrab-SZZQaLFSySQ-unsplash.jpg</filename>
+	<path>F:\capstone\dianxiangan\gribgrab-SZZQaLFSySQ-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>139</ymin>
+			<xmax>374</xmax>
+			<ymax>502</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>person 0504</folder>
+	<filename>440e051b3ac0c492.jpg</filename>
+	<path>C:\Users\Owner\Desktop\person 0504\440e051b3ac0c492.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian_front</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>372</xmin>
+			<ymin>214</ymin>
+			<xmax>521</xmax>
+			<ymax>515</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pedestrian_front</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>729</xmin>
+			<ymin>238</ymin>
+			<xmax>830</xmax>
+			<ymax>449</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pedestrian_front</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>621</xmin>
+			<ymin>249</ymin>
+			<xmax>699</xmax>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+</annotation>

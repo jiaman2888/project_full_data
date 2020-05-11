@@ -1,0 +1,38 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>WX20200410-190451.png</filename>
+	<path>F:\capstone\google map pictures\tree\WX20200410-190451.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>256</xmin>
+			<ymin>74</ymin>
+			<xmax>429</xmax>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>632</xmin>
+			<ymin>258</ymin>
+			<xmax>763</xmax>
+			<ymax>488</ymax>
+		</bndbox>
+	</object>
+</annotation>

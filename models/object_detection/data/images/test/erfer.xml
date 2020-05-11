@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>erfer.jpeg</filename>
+	<path>F:\capstone\new image\tree\erfer.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>440</width>
+		<height>647</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>17</ymin>
+			<xmax>388</xmax>
+			<ymax>637</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>utility_pole</folder>
+	<filename>electric-wire.jpg</filename>
+	<path>F:\capstone\new images\utility_pole\electric-wire.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3500</width>
+		<height>2333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>507</xmin>
+			<ymin>378</ymin>
+			<xmax>1139</xmax>
+			<ymax>1435</ymax>
+		</bndbox>
+	</object>
+</annotation>

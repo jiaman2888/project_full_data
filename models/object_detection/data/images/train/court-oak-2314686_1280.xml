@@ -1,0 +1,38 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>court-oak-2314686_1280.jpg</filename>
+	<path>F:\capstone\new images\tree\court-oak-2314686_1280.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>853</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>46</ymin>
+			<xmax>1133</xmax>
+			<ymax>804</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>693</ymin>
+			<xmax>80</xmax>
+			<ymax>776</ymax>
+		</bndbox>
+	</object>
+</annotation>

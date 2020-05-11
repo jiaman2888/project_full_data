@@ -1,0 +1,38 @@
+<annotation>
+	<folder>validation_data_new_20200505</folder>
+	<filename>Annotation 2020-05-05 123702.png</filename>
+	<path>C:\Users\dandan zhao\Pictures\Screenshots\validation_data_new_20200505\Annotation 2020-05-05 123702.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>541</width>
+		<height>513</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red_light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>69</ymin>
+			<xmax>90</xmax>
+			<ymax>115</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red_light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>380</xmin>
+			<ymin>183</ymin>
+			<xmax>401</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+</annotation>

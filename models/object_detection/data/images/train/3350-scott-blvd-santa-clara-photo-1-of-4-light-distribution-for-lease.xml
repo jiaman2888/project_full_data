@@ -1,0 +1,38 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>3350-scott-blvd-santa-clara-photo-1-of-4-light-distribution-for-lease.jpg</filename>
+	<path>F:\capstone\new images\tree\3350-scott-blvd-santa-clara-photo-1-of-4-light-distribution-for-lease.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>857</width>
+		<height>588</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>130</ymin>
+			<xmax>214</xmax>
+			<ymax>428</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>489</xmin>
+			<ymin>201</ymin>
+			<xmax>725</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+</annotation>

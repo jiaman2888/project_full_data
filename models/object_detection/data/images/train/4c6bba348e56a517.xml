@@ -1,0 +1,26 @@
+<annotation>
+	<folder>traffic light</folder>
+	<filename>4c6bba348e56a517.jpg</filename>
+	<path>F:\MSDA\298B\data_openimage\traffic light\4c6bba348e56a517.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>green_light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>343</xmin>
+			<ymin>313</ymin>
+			<xmax>418</xmax>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+</annotation>

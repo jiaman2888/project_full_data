@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>pngtree-isolated-tree-on-transparent-background-png-image_1471152.jpg</filename>
+	<path>F:\capstone\new images\tree\pngtree-isolated-tree-on-transparent-background-png-image_1471152.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>14</ymin>
+			<xmax>288</xmax>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+</annotation>

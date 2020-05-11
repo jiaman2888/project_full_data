@@ -1,0 +1,26 @@
+<annotation>
+	<folder>utility_pole_test</folder>
+	<filename>safdar-hussain-ucGJSuLHISY-unsplash.jpg</filename>
+	<path>F:\capstone\new images\utility_pole_test\safdar-hussain-ucGJSuLHISY-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>974</xmin>
+			<ymin>53</ymin>
+			<xmax>2145</xmax>
+			<ymax>1032</ymax>
+		</bndbox>
+	</object>
+</annotation>

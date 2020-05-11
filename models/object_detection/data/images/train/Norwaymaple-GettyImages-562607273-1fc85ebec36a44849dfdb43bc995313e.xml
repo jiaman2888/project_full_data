@@ -1,0 +1,38 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>Norwaymaple-GettyImages-562607273-1fc85ebec36a44849dfdb43bc995313e.jpg</filename>
+	<path>F:\capstone\new images\tree\Norwaymaple-GettyImages-562607273-1fc85ebec36a44849dfdb43bc995313e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1413</width>
+		<height>1413</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>1</ymin>
+			<xmax>1252</xmax>
+			<ymax>1413</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1083</xmin>
+			<ymin>397</ymin>
+			<xmax>1413</xmax>
+			<ymax>1269</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>utility_pole extra2</folder>
+	<filename>wind-turbine-1008679_960_720.jpg</filename>
+	<path>F:\capstone\new images\utility_pole extra2\wind-turbine-1008679_960_720.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>838</xmin>
+			<ymin>50</ymin>
+			<xmax>960</xmax>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>661</xmin>
+			<ymin>231</ymin>
+			<xmax>744</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+</annotation>

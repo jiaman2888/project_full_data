@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bike_all</folder>
+	<filename>212.jpg</filename>
+	<path>/Users/hushengzhe/Desktop/Bike_all/212.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>628</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bike_away</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>695</ymin>
+			<xmax>393</xmax>
+			<ymax>990</ymax>
+		</bndbox>
+	</object>
+</annotation>

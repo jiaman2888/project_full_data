@@ -1,0 +1,38 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>adfsd.jpeg</filename>
+	<path>F:\capstone\new image\tree\adfsd.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>62</ymin>
+			<xmax>360</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>305</ymin>
+			<xmax>126</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>

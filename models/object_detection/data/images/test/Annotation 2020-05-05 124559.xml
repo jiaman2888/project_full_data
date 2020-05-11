@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Annotation 2020-05-05 124559.png</filename>
+	<path>F:\MSDA\298B\validation_data_new_20200505\images\Annotation 2020-05-05 124559.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>688</width>
+		<height>786</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>green_light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>337</xmin>
+			<ymin>114</ymin>
+			<xmax>444</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

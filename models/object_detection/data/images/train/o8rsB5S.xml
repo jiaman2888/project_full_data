@@ -1,0 +1,26 @@
+<annotation>
+	<folder>utility_pole</folder>
+	<filename>o8rsB5S.jpg</filename>
+	<path>F:\capstone\new images\utility_pole\o8rsB5S.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>120</ymin>
+			<xmax>459</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>PNGImages</folder>
+	<filename>FudanPed00055.jpg</filename>
+	<path>C:\Users\Owner\Desktop\PNGImages\FudanPed00055.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian_back</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>172</ymin>
+			<xmax>278</xmax>
+			<ymax>534</ymax>
+		</bndbox>
+	</object>
+</annotation>

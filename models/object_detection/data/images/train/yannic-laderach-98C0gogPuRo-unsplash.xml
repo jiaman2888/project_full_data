@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>yannic-laderach-98C0gogPuRo-unsplash.jpg</filename>
+	<path>F:\capstone\new image\tree\yannic-laderach-98C0gogPuRo-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3741</width>
+		<height>5611</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>946</xmin>
+			<ymin>1246</ymin>
+			<xmax>2605</xmax>
+			<ymax>4328</ymax>
+		</bndbox>
+	</object>
+</annotation>

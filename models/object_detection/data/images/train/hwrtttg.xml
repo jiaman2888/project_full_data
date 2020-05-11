@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>hwrtttg.jpeg</filename>
+	<path>F:\capstone\new image\tree\hwrtttg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>891</width>
+		<height>1285</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>601</xmin>
+			<ymin>1</ymin>
+			<xmax>891</xmax>
+			<ymax>1285</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>ccc5044a07d4156e.jpg</filename>
+	<path>F:\capstone\new images\tree\ccc5044a07d4156e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>1</ymin>
+			<xmax>548</xmax>
+			<ymax>551</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>529</xmin>
+			<ymin>71</ymin>
+			<xmax>854</xmax>
+			<ymax>523</ymax>
+		</bndbox>
+	</object>
+</annotation>

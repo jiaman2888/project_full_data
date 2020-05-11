@@ -1,0 +1,26 @@
+<annotation>
+	<folder>utility_pole</folder>
+	<filename>4543511300000578-4974218-A_power_pole_has_been_left_standing_in_the_middle_of_a_road_afte-a-16_1507819310968.jpg</filename>
+	<path>F:\capstone\new images\utility_pole\4543511300000578-4974218-A_power_pole_has_been_left_standing_in_the_middle_of_a_road_afte-a-16_1507819310968.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>634</width>
+		<height>793</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>15</ymin>
+			<xmax>391</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>

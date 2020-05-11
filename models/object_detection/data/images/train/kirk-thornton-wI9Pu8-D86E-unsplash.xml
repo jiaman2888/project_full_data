@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dianxiangan</folder>
+	<filename>kirk-thornton-wI9Pu8-D86E-unsplash.jpg</filename>
+	<path>F:\capstone\dianxiangan\kirk-thornton-wI9Pu8-D86E-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>59</ymin>
+			<xmax>504</xmax>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+</annotation>

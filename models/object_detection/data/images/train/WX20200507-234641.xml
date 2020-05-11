@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree extra2</folder>
+	<filename>WX20200507-234641.png</filename>
+	<path>F:\capstone\new images\tree extra2\WX20200507-234641.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>643</width>
+		<height>532</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>139</ymin>
+			<xmax>428</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>

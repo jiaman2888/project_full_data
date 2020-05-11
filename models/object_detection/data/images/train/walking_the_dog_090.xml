@@ -1,0 +1,38 @@
+<annotation>
+	<folder>New folder (6)</folder>
+	<filename>walking_the_dog_090.jpg</filename>
+	<path>C:\Users\Owner\Desktop\New folder (6)\walking_the_dog_090.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>741</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian_front</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>293</xmin>
+			<ymin>75</ymin>
+			<xmax>457</xmax>
+			<ymax>654</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pedestrian_front</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>30</ymin>
+			<xmax>292</xmax>
+			<ymax>654</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>utility_pole</folder>
+	<filename>Poste_1_large.jpg</filename>
+	<path>F:\capstone\new images\utility_pole\Poste_1_large.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>510</xmin>
+			<ymin>231</ymin>
+			<xmax>1005</xmax>
+			<ymax>901</ymax>
+		</bndbox>
+	</object>
+</annotation>

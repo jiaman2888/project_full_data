@@ -1,0 +1,38 @@
+<annotation>
+	<folder>new_3202020</folder>
+	<filename>WeChat Image_20200320150339.jpg</filename>
+	<path>F:\MSDA\298B\new_3202020\WeChat Image_20200320150339.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red_light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>461</ymin>
+			<xmax>419</xmax>
+			<ymax>619</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red_light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>749</xmin>
+			<ymin>463</ymin>
+			<xmax>798</xmax>
+			<ymax>596</ymax>
+		</bndbox>
+	</object>
+</annotation>

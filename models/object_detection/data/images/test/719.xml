@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Bike_dandan_vali</folder>
+	<filename>719.jpg</filename>
+	<path>C:\Users\dandan zhao\Downloads\Bike_dandan_vali-20200509T004937Z-001\Bike_dandan_vali\719.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bike_toward</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>767</xmin>
+			<ymin>305</ymin>
+			<xmax>828</xmax>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bike_toward</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>670</xmin>
+			<ymin>107</ymin>
+			<xmax>716</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>

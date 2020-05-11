@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dianxiangan</folder>
+	<filename>david-ngo-wxiHIr05aJU-unsplash.jpg</filename>
+	<path>F:\capstone\dianxiangan\david-ngo-wxiHIr05aJU-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>400</xmin>
+			<ymin>150</ymin>
+			<xmax>488</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+</annotation>

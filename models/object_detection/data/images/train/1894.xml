@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bike_dandan_train</folder>
+	<filename>1894.jpg</filename>
+	<path>C:\Users\dandan zhao\Downloads\Bike_dandan_train-20200509T004610Z-001\Bike_dandan_train\1894.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>977</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bike_away</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>402</ymin>
+			<xmax>822</xmax>
+			<ymax>886</ymax>
+		</bndbox>
+	</object>
+</annotation>

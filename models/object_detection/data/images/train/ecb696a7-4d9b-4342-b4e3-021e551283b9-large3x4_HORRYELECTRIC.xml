@@ -1,0 +1,26 @@
+<annotation>
+	<folder>utility_pole_test</folder>
+	<filename>ecb696a7-4d9b-4342-b4e3-021e551283b9-large3x4_HORRYELECTRIC.jpg</filename>
+	<path>F:\capstone\new images\utility_pole_test\ecb696a7-4d9b-4342-b4e3-021e551283b9-large3x4_HORRYELECTRIC.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>581</xmin>
+			<ymin>13</ymin>
+			<xmax>794</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>utility_pole</folder>
+	<filename>220px-Palo_SES_Tegna_260513.jpg</filename>
+	<path>F:\capstone\new images\utility_pole\220px-Palo_SES_Tegna_260513.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>220</width>
+		<height>330</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>40</ymin>
+			<xmax>149</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>

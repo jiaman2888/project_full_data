@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_all</folder>
+	<filename>travis-dorrington-xkfghe8w6XY-unsplash.jpg</filename>
+	<path>F:\capstone\new images\train_all\travis-dorrington-xkfghe8w6XY-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>103</ymin>
+			<xmax>241</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>

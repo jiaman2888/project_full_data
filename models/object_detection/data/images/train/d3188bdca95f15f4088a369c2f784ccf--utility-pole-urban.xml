@@ -1,0 +1,38 @@
+<annotation>
+	<folder>utility_pole_test</folder>
+	<filename>d3188bdca95f15f4088a369c2f784ccf--utility-pole-urban.jpg</filename>
+	<path>F:\capstone\new images\utility_pole_test\d3188bdca95f15f4088a369c2f784ccf--utility-pole-urban.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>236</width>
+		<height>318</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>64</ymin>
+			<xmax>78</xmax>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>50</ymin>
+			<xmax>200</xmax>
+			<ymax>98</ymax>
+		</bndbox>
+	</object>
+</annotation>

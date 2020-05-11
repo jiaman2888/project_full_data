@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>ettgf.jpeg</filename>
+	<path>F:\capstone\new image\tree\ettgf.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>6</ymin>
+			<xmax>416</xmax>
+			<ymax>576</ymax>
+		</bndbox>
+	</object>
+</annotation>

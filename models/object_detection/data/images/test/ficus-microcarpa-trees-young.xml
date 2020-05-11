@@ -1,0 +1,38 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>ficus-microcarpa-trees-young.jpg</filename>
+	<path>F:\capstone\new images\tree\ficus-microcarpa-trees-young.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>541</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>282</xmin>
+			<ymin>17</ymin>
+			<xmax>636</xmax>
+			<ymax>508</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>83</ymin>
+			<xmax>305</xmax>
+			<ymax>485</ymax>
+		</bndbox>
+	</object>
+</annotation>

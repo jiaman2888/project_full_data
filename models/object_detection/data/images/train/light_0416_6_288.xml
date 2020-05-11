@@ -1,0 +1,26 @@
+<annotation>
+	<folder>light_0416_5_000</folder>
+	<filename>light_0416_6_288.jpg</filename>
+	<path>F:\MSDA\298B\newdata_0416\light_0416_5_000\light_0416_6_288.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>544</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red_light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>305</ymin>
+			<xmax>365</xmax>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dianxiangan</folder>
+	<filename>eskil-helgesen-r9mLtPdo3dg-unsplash.jpg</filename>
+	<path>F:\capstone\dianxiangan\eskil-helgesen-r9mLtPdo3dg-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>114</ymin>
+			<xmax>529</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>

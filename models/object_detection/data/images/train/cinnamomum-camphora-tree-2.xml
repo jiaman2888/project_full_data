@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>cinnamomum-camphora-tree-2.jpg</filename>
+	<path>F:\capstone\new images\tree\cinnamomum-camphora-tree-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>570</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>14</ymin>
+			<xmax>633</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>

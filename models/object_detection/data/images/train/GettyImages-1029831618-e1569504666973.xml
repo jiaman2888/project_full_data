@@ -1,0 +1,38 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>GettyImages-1029831618-e1569504666973.jpg</filename>
+	<path>F:\capstone\new image\tree\GettyImages-1029831618-e1569504666973.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1732</width>
+		<height>1333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1289</xmin>
+			<ymin>470</ymin>
+			<xmax>1730</xmax>
+			<ymax>1284</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>931</xmin>
+			<ymin>666</ymin>
+			<xmax>1303</xmax>
+			<ymax>1104</ymax>
+		</bndbox>
+	</object>
+</annotation>

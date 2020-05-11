@@ -1,0 +1,26 @@
+<annotation>
+	<folder>utility_pole_test</folder>
+	<filename>Telephone2BPole.jpg</filename>
+	<path>F:\capstone\new images\utility_pole_test\Telephone2BPole.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>724</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>409</xmin>
+			<ymin>115</ymin>
+			<xmax>689</xmax>
+			<ymax>277</ymax>
+		</bndbox>
+	</object>
+</annotation>

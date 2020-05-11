@@ -1,0 +1,26 @@
+<annotation>
+	<folder>utility_pole extra2</folder>
+	<filename>u=2605320485,2898155437&amp;fm=26&amp;gp=0.jpg</filename>
+	<path>F:\capstone\new images\utility_pole extra2\u=2605320485,2898155437&amp;fm=26&amp;gp=0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>490</width>
+		<height>367</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>23</ymin>
+			<xmax>381</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+</annotation>

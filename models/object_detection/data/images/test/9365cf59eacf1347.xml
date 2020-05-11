@@ -1,0 +1,26 @@
+<annotation>
+	<folder>project_pic</folder>
+	<filename>9365cf59eacf1347.jpg</filename>
+	<path>C:\Users\Owner\Desktop\project_pic\9365cf59eacf1347.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>683</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian_front</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>103</ymin>
+			<xmax>454</xmax>
+			<ymax>1013</ymax>
+		</bndbox>
+	</object>
+</annotation>

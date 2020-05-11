@@ -1,0 +1,26 @@
+<annotation>
+	<folder>traffic_signs</folder>
+	<filename>IMG_1481.JPG</filename>
+	<path>F:\MSDA\298B\traffic_signs\IMG_1481.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop_sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1332</xmin>
+			<ymin>1336</ymin>
+			<xmax>1937</xmax>
+			<ymax>1932</ymax>
+		</bndbox>
+	</object>
+</annotation>

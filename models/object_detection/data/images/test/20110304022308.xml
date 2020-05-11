@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree extra2</folder>
+	<filename>20110304022308.jpg</filename>
+	<path>F:\capstone\new images\tree extra2\20110304022308.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>94</ymin>
+			<xmax>1071</xmax>
+			<ymax>684</ymax>
+		</bndbox>
+	</object>
+</annotation>

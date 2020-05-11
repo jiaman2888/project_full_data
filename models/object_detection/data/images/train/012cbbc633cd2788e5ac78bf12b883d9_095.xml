@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lights3</folder>
+	<filename>012cbbc633cd2788e5ac78bf12b883d9_095.jpg</filename>
+	<path>F:\MSDA\298B\new_jiejia\lights3\012cbbc633cd2788e5ac78bf12b883d9_095.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>544</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>green_light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>400</xmin>
+			<ymin>415</ymin>
+			<xmax>433</xmax>
+			<ymax>494</ymax>
+		</bndbox>
+	</object>
+</annotation>

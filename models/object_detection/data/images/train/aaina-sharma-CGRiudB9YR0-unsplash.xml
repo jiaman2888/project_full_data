@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>aaina-sharma-CGRiudB9YR0-unsplash.jpg</filename>
+	<path>F:\capstone\new image\tree\aaina-sharma-CGRiudB9YR0-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5296</width>
+		<height>3543</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>2</ymin>
+			<xmax>2833</xmax>
+			<ymax>3543</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>utility_pole_test</folder>
+	<filename>duc-nguyen-mBfSnZ7tXlc-unsplash.jpg</filename>
+	<path>F:\capstone\new images\utility_pole_test\duc-nguyen-mBfSnZ7tXlc-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3822</width>
+		<height>5507</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1252</xmin>
+			<ymin>3541</ymin>
+			<xmax>2670</xmax>
+			<ymax>4670</ymax>
+		</bndbox>
+	</object>
+</annotation>

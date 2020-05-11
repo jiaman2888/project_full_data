@@ -1,0 +1,38 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>Arbutus_Photo-1-scaled.jpg</filename>
+	<path>F:\capstone\new images\tree\Arbutus_Photo-1-scaled.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1921</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>1893</xmax>
+			<ymax>1882</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1674</xmin>
+			<ymin>735</ymin>
+			<xmax>2156</xmax>
+			<ymax>1382</ymax>
+		</bndbox>
+	</object>
+</annotation>

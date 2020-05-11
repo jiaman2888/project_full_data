@@ -1,0 +1,38 @@
+<annotation>
+	<folder>green_light train</folder>
+	<filename>012cbbc633cd2788e5ac78bf12b883d9_005.jpg</filename>
+	<path>F:\MSDA\298B\traffic lights_0504\green_light train\012cbbc633cd2788e5ac78bf12b883d9_005.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>544</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>green_light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>427</xmin>
+			<ymin>414</ymin>
+			<xmax>446</xmax>
+			<ymax>458</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>green_light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>323</ymin>
+			<xmax>163</xmax>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+</annotation>

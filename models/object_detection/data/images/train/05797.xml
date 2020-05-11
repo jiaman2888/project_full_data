@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Towards</folder>
+	<filename>05797.jpg</filename>
+	<path>F:/5.4-kaile/Towards/05797.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>614</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vehicle_toward</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>149</ymin>
+			<xmax>838</xmax>
+			<ymax>467</ymax>
+		</bndbox>
+	</object>
+</annotation>

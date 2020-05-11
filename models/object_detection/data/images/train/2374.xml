@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bike_dandan_train</folder>
+	<filename>2374.jpg</filename>
+	<path>C:\Users\dandan zhao\Downloads\Bike_dandan_train-20200509T004610Z-001\Bike_dandan_train\2374.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>767</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bike_toward</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>509</ymin>
+			<xmax>624</xmax>
+			<ymax>1013</ymax>
+		</bndbox>
+	</object>
+</annotation>

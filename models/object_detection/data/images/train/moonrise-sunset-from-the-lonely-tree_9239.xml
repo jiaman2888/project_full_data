@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>moonrise-sunset-from-the-lonely-tree_9239.jpg</filename>
+	<path>F:\capstone\new images\tree\moonrise-sunset-from-the-lonely-tree_9239.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>7</ymin>
+			<xmax>291</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

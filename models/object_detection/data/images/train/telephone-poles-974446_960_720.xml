@@ -1,0 +1,26 @@
+<annotation>
+	<folder>utility_pole extra2</folder>
+	<filename>telephone-poles-974446_960_720.jpg</filename>
+	<path>F:\capstone\new images\utility_pole extra2\telephone-poles-974446_960_720.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>46</ymin>
+			<xmax>882</xmax>
+			<ymax>612</ymax>
+		</bndbox>
+	</object>
+</annotation>

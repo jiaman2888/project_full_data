@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree extra2</folder>
+	<filename>yike_shu-004tl4hk42m41a.jpg</filename>
+	<path>F:\capstone\new images\tree extra2\yike_shu-004tl4hk42m41a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>537</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>25</ymin>
+			<xmax>712</xmax>
+			<ymax>463</ymax>
+		</bndbox>
+	</object>
+</annotation>

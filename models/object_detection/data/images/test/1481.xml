@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bike_vali</folder>
+	<filename>1481.jpg</filename>
+	<path>/Users/hushengzhe/Desktop/Bike_vali/1481.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bike_toward</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>427</ymin>
+			<xmax>352</xmax>
+			<ymax>879</ymax>
+		</bndbox>
+	</object>
+</annotation>

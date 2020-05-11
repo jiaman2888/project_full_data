@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5.4-kaile</folder>
+	<filename>06346.jpg</filename>
+	<path>D:\5.4-kaile\06346.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vehicle_toward</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>48</ymin>
+			<xmax>457</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

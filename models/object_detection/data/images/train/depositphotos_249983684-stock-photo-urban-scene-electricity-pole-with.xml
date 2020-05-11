@@ -1,0 +1,26 @@
+<annotation>
+	<folder>utility_pole_test</folder>
+	<filename>depositphotos_249983684-stock-photo-urban-scene-electricity-pole-with.jpg</filename>
+	<path>F:\capstone\new images\utility_pole_test\depositphotos_249983684-stock-photo-urban-scene-electricity-pole-with.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1167</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>553</xmin>
+			<ymin>112</ymin>
+			<xmax>998</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>

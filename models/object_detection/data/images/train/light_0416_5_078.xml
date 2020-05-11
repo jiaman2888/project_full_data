@@ -1,0 +1,26 @@
+<annotation>
+	<folder>light_0416_5_000</folder>
+	<filename>light_0416_5_078.jpg</filename>
+	<path>F:\MSDA\298B\newdata_0416\light_0416_5_000\light_0416_5_078.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>544</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>green_light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>293</xmin>
+			<ymin>345</ymin>
+			<xmax>323</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+</annotation>

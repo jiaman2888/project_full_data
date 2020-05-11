@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>esther-t-Ssjp-5chfW0-unsplash.jpg</filename>
+	<path>F:\capstone\new image\tree\esther-t-Ssjp-5chfW0-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3304</width>
+		<height>4400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>893</xmin>
+			<ymin>677</ymin>
+			<xmax>2761</xmax>
+			<ymax>3186</ymax>
+		</bndbox>
+	</object>
+</annotation>

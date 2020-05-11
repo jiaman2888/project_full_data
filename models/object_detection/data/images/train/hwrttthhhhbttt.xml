@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>hwrttthhhhbttt.jpeg</filename>
+	<path>F:\capstone\new image\tree\hwrttthhhhbttt.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>558</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>44</ymin>
+			<xmax>327</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+</annotation>

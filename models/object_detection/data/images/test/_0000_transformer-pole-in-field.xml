@@ -1,0 +1,26 @@
+<annotation>
+	<folder>utility_pole</folder>
+	<filename>_0000_transformer-pole-in-field.jpg</filename>
+	<path>F:\capstone\new images\utility_pole\_0000_transformer-pole-in-field.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>380</width>
+		<height>328</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>10</ymin>
+			<xmax>204</xmax>
+			<ymax>122</ymax>
+		</bndbox>
+	</object>
+</annotation>

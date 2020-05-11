@@ -1,0 +1,26 @@
+<annotation>
+	<folder>traffic light</folder>
+	<filename>cdddc8e7203d2001.jpg</filename>
+	<path>F:\MSDA\298B\data_openimage\traffic light\cdddc8e7203d2001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red_light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>78</ymin>
+			<xmax>404</xmax>
+			<ymax>953</ymax>
+		</bndbox>
+	</object>
+</annotation>

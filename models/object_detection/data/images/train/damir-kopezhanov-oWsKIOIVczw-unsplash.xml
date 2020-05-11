@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>damir-kopezhanov-oWsKIOIVczw-unsplash.jpg</filename>
+	<path>F:\capstone\new image\tree\damir-kopezhanov-oWsKIOIVczw-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2587</width>
+		<height>3880</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>1140</ymin>
+			<xmax>1225</xmax>
+			<ymax>2552</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pedestrian</folder>
+	<filename>FudanPed00067.jpg</filename>
+	<path>C:\Users\Owner\Desktop\data_combine\pedestrian\FudanPed00067.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian_back</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>76</ymin>
+			<xmax>185</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>

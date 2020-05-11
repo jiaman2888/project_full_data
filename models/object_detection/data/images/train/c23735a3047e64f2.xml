@@ -1,0 +1,26 @@
+<annotation>
+	<folder>person 0504</folder>
+	<filename>c23735a3047e64f2.jpg</filename>
+	<path>C:\Users\Owner\Desktop\person 0504\c23735a3047e64f2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian_back</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>250</xmin>
+			<ymin>570</ymin>
+			<xmax>360</xmax>
+			<ymax>938</ymax>
+		</bndbox>
+	</object>
+</annotation>

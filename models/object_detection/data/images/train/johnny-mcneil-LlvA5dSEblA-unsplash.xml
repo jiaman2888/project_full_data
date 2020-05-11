@@ -1,0 +1,26 @@
+<annotation>
+	<folder>utility_pole_test</folder>
+	<filename>johnny-mcneil-LlvA5dSEblA-unsplash.jpg</filename>
+	<path>F:\capstone\new images\utility_pole_test\johnny-mcneil-LlvA5dSEblA-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3130</width>
+		<height>2075</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>962</xmin>
+			<ymin>257</ymin>
+			<xmax>2389</xmax>
+			<ymax>2064</ymax>
+		</bndbox>
+	</object>
+</annotation>

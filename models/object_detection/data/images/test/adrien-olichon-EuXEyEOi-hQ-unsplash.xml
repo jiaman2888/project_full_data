@@ -1,0 +1,38 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>adrien-olichon-EuXEyEOi-hQ-unsplash.jpg</filename>
+	<path>F:\capstone\new image\tree\adrien-olichon-EuXEyEOi-hQ-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2986</xmin>
+			<ymin>1</ymin>
+			<xmax>4825</xmax>
+			<ymax>2352</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1869</xmin>
+			<ymin>930</ymin>
+			<xmax>2997</xmax>
+			<ymax>2247</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>yuliya-kosolapova-Vgd8dC9HIJ4-unsplash.jpg</filename>
+	<path>F:\capstone\new image\tree\yuliya-kosolapova-Vgd8dC9HIJ4-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2669</width>
+		<height>4003</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>909</xmin>
+			<ymin>839</ymin>
+			<xmax>2669</xmax>
+			<ymax>3226</ymax>
+		</bndbox>
+	</object>
+</annotation>

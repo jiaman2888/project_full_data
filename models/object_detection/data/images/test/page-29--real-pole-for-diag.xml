@@ -1,0 +1,26 @@
+<annotation>
+	<folder>utility_pole</folder>
+	<filename>page-29--real-pole-for-diag.jpg</filename>
+	<path>F:\capstone\new images\utility_pole\page-29--real-pole-for-diag.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>344</width>
+		<height>525</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>74</ymin>
+			<xmax>283</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>

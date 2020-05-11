@@ -1,0 +1,26 @@
+<annotation>
+	<folder>green_lights</folder>
+	<filename>8f3d8cbf2b8f11795b66aea4488a70d8_000.jpg</filename>
+	<path>F:\MSDA\298B\green_lights\8f3d8cbf2b8f11795b66aea4488a70d8_000.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>544</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>green_light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>219</xmin>
+			<ymin>164</ymin>
+			<xmax>331</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>utility_pole_test</folder>
+	<filename>kyle-ryan-0QXAV5S4-sk-unsplash.jpg</filename>
+	<path>F:\capstone\new images\utility_pole_test\kyle-ryan-0QXAV5S4-sk-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>3089</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1384</xmin>
+			<ymin>328</ymin>
+			<xmax>1775</xmax>
+			<ymax>731</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>238</ymin>
+			<xmax>662</xmax>
+			<ymax>699</ymax>
+		</bndbox>
+	</object>
+</annotation>

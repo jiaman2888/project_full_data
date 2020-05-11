@@ -1,0 +1,38 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>werrtwer.jpeg</filename>
+	<path>F:\capstone\new image\tree\werrtwer.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>507</xmin>
+			<ymin>1</ymin>
+			<xmax>960</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>2</ymin>
+			<xmax>483</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+</annotation>

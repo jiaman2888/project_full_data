@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Backup</folder>
+	<filename>0393.jpg</filename>
+	<path>D:\youtube video\Images\Backup\0393.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vehicle_away</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1474</xmin>
+			<ymin>427</ymin>
+			<xmax>1892</xmax>
+			<ymax>685</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle_away</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1212</xmin>
+			<ymin>457</ymin>
+			<xmax>1412</xmax>
+			<ymax>549</ymax>
+		</bndbox>
+	</object>
+</annotation>

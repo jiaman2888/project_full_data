@@ -1,0 +1,26 @@
+<annotation>
+	<folder>utility_pole_test</folder>
+	<filename>2014-08-30_08_34_53_Utility_pole_and_street_light_along_Terrace_Boulevard_near_Farrell_Avenue_in_Ewing,_New_Jersey.jpeg</filename>
+	<path>F:\capstone\new images\utility_pole_test\2014-08-30_08_34_53_Utility_pole_and_street_light_along_Terrace_Boulevard_near_Farrell_Avenue_in_Ewing,_New_Jersey.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>941</xmin>
+			<ymin>673</ymin>
+			<xmax>1427</xmax>
+			<ymax>1566</ymax>
+		</bndbox>
+	</object>
+</annotation>

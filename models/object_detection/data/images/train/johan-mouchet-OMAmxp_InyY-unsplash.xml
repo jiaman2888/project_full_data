@@ -1,0 +1,38 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>johan-mouchet-OMAmxp_InyY-unsplash.jpg</filename>
+	<path>F:\capstone\new image\tree\johan-mouchet-OMAmxp_InyY-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6240</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1179</xmin>
+			<ymin>7</ymin>
+			<xmax>3197</xmax>
+			<ymax>3498</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>547</xmin>
+			<ymin>1684</ymin>
+			<xmax>1588</xmax>
+			<ymax>3266</ymax>
+		</bndbox>
+	</object>
+</annotation>

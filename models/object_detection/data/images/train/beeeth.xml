@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>beeeth.jpeg</filename>
+	<path>F:\capstone\new image\tree\beeeth.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>980</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>34</ymin>
+			<xmax>526</xmax>
+			<ymax>958</ymax>
+		</bndbox>
+	</object>
+</annotation>

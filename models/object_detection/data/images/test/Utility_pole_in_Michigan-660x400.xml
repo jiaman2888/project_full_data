@@ -1,0 +1,26 @@
+<annotation>
+	<folder>utility_pole</folder>
+	<filename>Utility_pole_in_Michigan-660x400.jpg</filename>
+	<path>F:\capstone\new images\utility_pole\Utility_pole_in_Michigan-660x400.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>660</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>76</ymin>
+			<xmax>433</xmax>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>stop</folder>
+	<filename>2d7bc6c2cfffbb5c.jpg</filename>
+	<path>F:\MSDA\298B\data_openimage\stop\2d7bc6c2cfffbb5c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop_sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>350</ymin>
+			<xmax>425</xmax>
+			<ymax>512</ymax>
+		</bndbox>
+	</object>
+</annotation>

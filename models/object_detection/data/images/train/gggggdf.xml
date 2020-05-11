@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>gggggdf.jpeg</filename>
+	<path>F:\capstone\new image\tree\gggggdf.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>2</ymin>
+			<xmax>493</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>utility_pole</folder>
+	<filename>tdworld_3251_leaningpole.png</filename>
+	<path>F:\capstone\new images\utility_pole\tdworld_3251_leaningpole.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>432</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>33</ymin>
+			<xmax>376</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>

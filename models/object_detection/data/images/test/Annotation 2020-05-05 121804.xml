@@ -1,0 +1,26 @@
+<annotation>
+	<folder>validation_data_new_20200505</folder>
+	<filename>Annotation 2020-05-05 121804.png</filename>
+	<path>C:\Users\dandan zhao\Pictures\Screenshots\validation_data_new_20200505\Annotation 2020-05-05 121804.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>772</width>
+		<height>549</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>green_light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>426</xmin>
+			<ymin>70</ymin>
+			<xmax>512</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

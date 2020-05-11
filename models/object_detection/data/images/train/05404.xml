@@ -1,0 +1,26 @@
+<annotation>
+	<folder>away</folder>
+	<filename>05404.jpg</filename>
+	<path>C:\Users\lych0\Desktop\away\05404.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>325</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vehicle_away</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>27</ymin>
+			<xmax>414</xmax>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+</annotation>

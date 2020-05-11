@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Annotation 2020-05-05 115053.png</filename>
+	<path>F:\MSDA\298B\validation_data_new_20200505\images\Annotation 2020-05-05 115053.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>406</width>
+		<height>492</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop_sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>213</xmin>
+			<ymin>120</ymin>
+			<xmax>277</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+</annotation>

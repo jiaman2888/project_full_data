@@ -1,0 +1,38 @@
+<annotation>
+	<folder>utility_pole_test</folder>
+	<filename>sfgsdfgsdfg.png</filename>
+	<path>F:\capstone\new images\utility_pole_test\sfgsdfgsdfg.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>295</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>28</ymin>
+			<xmax>147</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>167</ymin>
+			<xmax>240</xmax>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lights2</folder>
+	<filename>cbfcf743d7cd5cf71a6f9df7cbd3d6b1_078.jpg</filename>
+	<path>F:\MSDA\298B\new_jiejia\lights2\cbfcf743d7cd5cf71a6f9df7cbd3d6b1_078.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>544</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red_light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>358</ymin>
+			<xmax>231</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+</annotation>

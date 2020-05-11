@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Annotation 2020-05-05 124622.png</filename>
+	<path>F:\MSDA\298B\validation_data_new_20200505\images\Annotation 2020-05-05 124622.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>579</width>
+		<height>712</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red_light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>262</ymin>
+			<xmax>366</xmax>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+</annotation>

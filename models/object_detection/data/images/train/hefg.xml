@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>hefg.png</filename>
+	<path>F:\capstone\new image\tree\hefg.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>763</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>9</ymin>
+			<xmax>650</xmax>
+			<ymax>750</ymax>
+		</bndbox>
+	</object>
+</annotation>

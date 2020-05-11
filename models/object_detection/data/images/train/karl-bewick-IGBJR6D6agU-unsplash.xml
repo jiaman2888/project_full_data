@@ -1,0 +1,38 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>karl-bewick-IGBJR6D6agU-unsplash.jpg</filename>
+	<path>F:\capstone\new image\tree\karl-bewick-IGBJR6D6agU-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3816</width>
+		<height>3053</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>423</ymin>
+			<xmax>1639</xmax>
+			<ymax>2168</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2259</xmin>
+			<ymin>278</ymin>
+			<xmax>3649</xmax>
+			<ymax>2113</ymax>
+		</bndbox>
+	</object>
+</annotation>

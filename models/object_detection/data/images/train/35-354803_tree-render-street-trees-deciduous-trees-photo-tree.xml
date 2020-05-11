@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>35-354803_tree-render-street-trees-deciduous-trees-photo-tree.png</filename>
+	<path>F:\capstone\new images\tree\35-354803_tree-render-street-trees-deciduous-trees-photo-tree.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>36</ymin>
+			<xmax>622</xmax>
+			<ymax>907</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>utility_pole_test</folder>
+	<filename>electric-pole-transformer.jpg</filename>
+	<path>F:\capstone\new images\utility_pole_test\electric-pole-transformer.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>472</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>63</ymin>
+			<xmax>424</xmax>
+			<ymax>606</ymax>
+		</bndbox>
+	</object>
+</annotation>

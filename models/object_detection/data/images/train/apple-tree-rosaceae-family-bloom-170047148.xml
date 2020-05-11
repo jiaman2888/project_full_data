@@ -1,0 +1,38 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>apple-tree-rosaceae-family-bloom-170047148.jpg</filename>
+	<path>F:\capstone\new images\tree\apple-tree-rosaceae-family-bloom-170047148.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>506</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>1</ymin>
+			<xmax>616</xmax>
+			<ymax>493</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>597</xmin>
+			<ymin>115</ymin>
+			<xmax>800</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>

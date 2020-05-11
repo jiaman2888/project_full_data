@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>ivy-barn-cTL_MV4AKkY-unsplash.jpg</filename>
+	<path>F:\capstone\new image\tree\ivy-barn-cTL_MV4AKkY-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4069</width>
+		<height>2703</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>676</xmin>
+			<ymin>223</ymin>
+			<xmax>2119</xmax>
+			<ymax>1778</ymax>
+		</bndbox>
+	</object>
+</annotation>

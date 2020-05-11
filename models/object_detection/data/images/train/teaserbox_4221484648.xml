@@ -1,0 +1,38 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>teaserbox_4221484648.jpg</filename>
+	<path>F:\capstone\new images\tree\teaserbox_4221484648.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>831</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>34</ymin>
+			<xmax>797</xmax>
+			<ymax>1051</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>423</ymin>
+			<xmax>315</xmax>
+			<ymax>995</ymax>
+		</bndbox>
+	</object>
+</annotation>

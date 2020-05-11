@@ -1,0 +1,38 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>max-ostwalt-_ET1olhz_P0-unsplash.jpg</filename>
+	<path>F:\capstone\new image\tree\max-ostwalt-_ET1olhz_P0-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2937</width>
+		<height>4430</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1000</ymin>
+			<xmax>1207</xmax>
+			<ymax>3057</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1492</xmin>
+			<ymin>605</ymin>
+			<xmax>2626</xmax>
+			<ymax>2585</ymax>
+		</bndbox>
+	</object>
+</annotation>

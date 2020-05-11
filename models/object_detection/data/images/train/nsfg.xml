@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>nsfg.jpeg</filename>
+	<path>F:\capstone\new image\tree\nsfg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>369</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>1</ymin>
+			<xmax>293</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

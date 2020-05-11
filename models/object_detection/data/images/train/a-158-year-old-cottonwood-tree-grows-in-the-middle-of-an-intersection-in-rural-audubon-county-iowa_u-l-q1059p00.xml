@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>a-158-year-old-cottonwood-tree-grows-in-the-middle-of-an-intersection-in-rural-audubon-county-iowa_u-l-q1059p00.jpg</filename>
+	<path>F:\capstone\new images\tree\a-158-year-old-cottonwood-tree-grows-in-the-middle-of-an-intersection-in-rural-audubon-county-iowa_u-l-q1059p00.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>367</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>14</ymin>
+			<xmax>433</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>

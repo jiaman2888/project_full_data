@@ -1,0 +1,26 @@
+<annotation>
+	<folder>utility_pole_test</folder>
+	<filename>UltraPole_NXT_two_181106_161506.5e1617a7a0456.png</filename>
+	<path>F:\capstone\new images\utility_pole_test\UltraPole_NXT_two_181106_161506.5e1617a7a0456.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>118</ymin>
+			<xmax>501</xmax>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pedestrian</folder>
+	<filename>schloss-rain-00000340.png</filename>
+	<path>C:\Users\Owner\Desktop\data_combine\pedestrian\schloss-rain-00000340.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian_back</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>535</xmin>
+			<ymin>205</ymin>
+			<xmax>598</xmax>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+</annotation>

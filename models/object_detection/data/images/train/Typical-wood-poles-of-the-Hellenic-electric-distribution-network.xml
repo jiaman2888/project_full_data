@@ -1,0 +1,38 @@
+<annotation>
+	<folder>utility_pole</folder>
+	<filename>Typical-wood-poles-of-the-Hellenic-electric-distribution-network.png</filename>
+	<path>F:\capstone\new images\utility_pole\Typical-wood-poles-of-the-Hellenic-electric-distribution-network.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>336</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>22</ymin>
+			<xmax>142</xmax>
+			<ymax>106</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>206</ymin>
+			<xmax>292</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>daca47ee-2144-45e4-9bc5-300f531f107d.jpeg</filename>
+	<path>F:\capstone\new image\tree\daca47ee-2144-45e4-9bc5-300f531f107d.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>33</ymin>
+			<xmax>296</xmax>
+			<ymax>460</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>301</xmin>
+			<ymin>275</ymin>
+			<xmax>400</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>

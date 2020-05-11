@@ -1,0 +1,38 @@
+<annotation>
+	<folder>utility_pole</folder>
+	<filename>WX20200409-192325.png</filename>
+	<path>F:\capstone\new images\utility_pole\WX20200409-192325.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>761</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>128</ymin>
+			<xmax>241</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>434</xmin>
+			<ymin>44</ymin>
+			<xmax>516</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+</annotation>

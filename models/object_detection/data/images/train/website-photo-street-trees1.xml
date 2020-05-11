@@ -1,0 +1,38 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>website-photo-street-trees1.jpg</filename>
+	<path>F:\capstone\new images\tree\website-photo-street-trees1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2108</width>
+		<height>1960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1192</xmin>
+			<ymin>427</ymin>
+			<xmax>2108</xmax>
+			<ymax>1580</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>227</ymin>
+			<xmax>1049</xmax>
+			<ymax>1598</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>utility_pole</folder>
+	<filename>3C161464-C67C-464A-BD67-C06DBB9FE7D5Zoom.jpg</filename>
+	<path>F:\capstone\new images\utility_pole\3C161464-C67C-464A-BD67-C06DBB9FE7D5Zoom.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2880</width>
+		<height>2880</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>927</xmin>
+			<ymin>234</ymin>
+			<xmax>1970</xmax>
+			<ymax>942</ymax>
+		</bndbox>
+	</object>
+</annotation>

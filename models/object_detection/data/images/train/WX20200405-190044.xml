@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_all</folder>
+	<filename>WX20200405-190044.png</filename>
+	<path>F:\capstone\new images\train_all\WX20200405-190044.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>69</ymin>
+			<xmax>471</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>

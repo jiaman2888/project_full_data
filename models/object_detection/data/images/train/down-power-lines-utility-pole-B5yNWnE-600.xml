@@ -1,0 +1,26 @@
+<annotation>
+	<folder>utility_pole_test</folder>
+	<filename>down-power-lines-utility-pole-B5yNWnE-600.jpg</filename>
+	<path>F:\capstone\new images\utility_pole_test\down-power-lines-utility-pole-B5yNWnE-600.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>278</xmin>
+			<ymin>53</ymin>
+			<xmax>374</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>

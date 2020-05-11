@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>f1b375ae7ae74331.jpg</filename>
+	<path>F:\capstone\new images\tree\f1b375ae7ae74331.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>497</xmin>
+			<ymin>1</ymin>
+			<xmax>1023</xmax>
+			<ymax>668</ymax>
+		</bndbox>
+	</object>
+</annotation>

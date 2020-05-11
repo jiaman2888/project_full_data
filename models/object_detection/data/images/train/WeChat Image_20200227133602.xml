@@ -1,0 +1,26 @@
+<annotation>
+	<folder>traffic_signs</folder>
+	<filename>WeChat Image_20200227133602.jpg</filename>
+	<path>F:\MSDA\298B\traffic_signs\WeChat Image_20200227133602.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop_sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>414</xmin>
+			<ymin>469</ymin>
+			<xmax>580</xmax>
+			<ymax>633</ymax>
+		</bndbox>
+	</object>
+</annotation>

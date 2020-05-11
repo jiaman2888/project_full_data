@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>scott-webb-0VkFtNW_sME-unsplash.jpg</filename>
+	<path>F:\capstone\new image\tree\scott-webb-0VkFtNW_sME-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4102</width>
+		<height>2510</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3105</xmin>
+			<ymin>21</ymin>
+			<xmax>4102</xmax>
+			<ymax>1691</ymax>
+		</bndbox>
+	</object>
+</annotation>

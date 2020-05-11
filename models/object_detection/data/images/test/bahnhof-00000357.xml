@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pedestrian</folder>
+	<filename>bahnhof-00000357.png</filename>
+	<path>C:\Users\Owner\Desktop\data_combine\pedestrian\bahnhof-00000357.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian_back</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>476</xmin>
+			<ymin>185</ymin>
+			<xmax>569</xmax>
+			<ymax>354</ymax>
+		</bndbox>
+	</object>
+</annotation>

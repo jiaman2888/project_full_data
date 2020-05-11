@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>Philadelphia-Street-Landscaped-With-Sidewalk-Planter-Two-Trees-With-Plantings-At-Base.jpg</filename>
+	<path>F:\capstone\new images\tree\Philadelphia-Street-Landscaped-With-Sidewalk-Planter-Two-Trees-With-Plantings-At-Base.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1528</width>
+		<height>2561</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>1525</xmax>
+			<ymax>2079</ymax>
+		</bndbox>
+	</object>
+</annotation>

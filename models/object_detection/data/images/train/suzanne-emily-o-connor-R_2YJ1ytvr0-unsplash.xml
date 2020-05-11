@@ -1,0 +1,38 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>suzanne-emily-o-connor-R_2YJ1ytvr0-unsplash.jpg</filename>
+	<path>F:\capstone\new image\tree\suzanne-emily-o-connor-R_2YJ1ytvr0-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6240</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>1</ymin>
+			<xmax>3224</xmax>
+			<ymax>3671</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3711</xmin>
+			<ymin>343</ymin>
+			<xmax>6240</xmax>
+			<ymax>3661</ymax>
+		</bndbox>
+	</object>
+</annotation>

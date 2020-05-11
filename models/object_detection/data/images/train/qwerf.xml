@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>qwerf.jpeg</filename>
+	<path>F:\capstone\new image\tree\qwerf.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>60</ymin>
+			<xmax>1080</xmax>
+			<ymax>1382</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>USA_Houses_Solvang_California_Street_Trees_535303_2560x1440.jpg</filename>
+	<path>F:\capstone\new images\tree\USA_Houses_Solvang_California_Street_Trees_535303_2560x1440.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1421</xmin>
+			<ymin>1</ymin>
+			<xmax>2500</xmax>
+			<ymax>955</ymax>
+		</bndbox>
+	</object>
+</annotation>

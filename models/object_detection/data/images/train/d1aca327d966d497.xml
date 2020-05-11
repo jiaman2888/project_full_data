@@ -1,0 +1,26 @@
+<annotation>
+	<folder>stop</folder>
+	<filename>d1aca327d966d497.jpg</filename>
+	<path>C:\Users\dandan zhao\Downloads\green light + red light train-20200505T042044Z-001\validation_data\stop\d1aca327d966d497.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop_sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>225</ymin>
+			<xmax>684</xmax>
+			<ymax>958</ymax>
+		</bndbox>
+	</object>
+</annotation>

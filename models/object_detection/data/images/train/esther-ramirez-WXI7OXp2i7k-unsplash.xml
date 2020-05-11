@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dianxiangan</folder>
+	<filename>esther-ramirez-WXI7OXp2i7k-unsplash.jpg</filename>
+	<path>F:\capstone\dianxiangan\esther-ramirez-WXI7OXp2i7k-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>218</ymin>
+			<xmax>329</xmax>
+			<ymax>349</ymax>
+		</bndbox>
+	</object>
+</annotation>

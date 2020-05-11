@@ -1,0 +1,38 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>HaciendaSantaClaraGTO007.jpg</filename>
+	<path>F:\capstone\new images\tree\HaciendaSantaClaraGTO007.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4380</width>
+		<height>2363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>544</xmin>
+			<ymin>197</ymin>
+			<xmax>2867</xmax>
+			<ymax>2124</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3026</xmin>
+			<ymin>424</ymin>
+			<xmax>4380</xmax>
+			<ymax>2149</ymax>
+		</bndbox>
+	</object>
+</annotation>

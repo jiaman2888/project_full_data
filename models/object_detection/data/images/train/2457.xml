@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vehicle_images</folder>
+	<filename>2457.jpg</filename>
+	<path>D:\Data298\Images\vehicle_images\2457.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1516</width>
+		<height>852</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vehicle_away</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>521</xmin>
+			<ymin>531</ymin>
+			<xmax>680</xmax>
+			<ymax>607</ymax>
+		</bndbox>
+	</object>
+</annotation>

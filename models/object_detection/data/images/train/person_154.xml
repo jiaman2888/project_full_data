@@ -1,0 +1,38 @@
+<annotation>
+	<folder>New folder (5)</folder>
+	<filename>person_154.bmp</filename>
+	<path>C:\Users\Owner\Desktop\New folder (5)\person_154.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian_back</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>107</ymin>
+			<xmax>349</xmax>
+			<ymax>515</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pedestrian_back</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>155</ymin>
+			<xmax>172</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

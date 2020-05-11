@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Backup</folder>
+	<filename>3510.jpg</filename>
+	<path>D:\youtube video\Images\Backup\3510.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vehicle_away</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>724</ymin>
+			<xmax>253</xmax>
+			<ymax>825</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle_toward</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>878</xmin>
+			<ymin>722</ymin>
+			<xmax>1696</xmax>
+			<ymax>1077</ymax>
+		</bndbox>
+	</object>
+</annotation>

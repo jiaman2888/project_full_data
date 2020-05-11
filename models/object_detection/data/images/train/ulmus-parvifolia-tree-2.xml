@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>ulmus-parvifolia-tree-2.jpg</filename>
+	<path>F:\capstone\new images\tree\ulmus-parvifolia-tree-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>684</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>26</ymin>
+			<xmax>550</xmax>
+			<ymax>651</ymax>
+		</bndbox>
+	</object>
+</annotation>

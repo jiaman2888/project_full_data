@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>harishan-kobalasingam-BRm3LcoA7jE-unsplash.jpg</filename>
+	<path>F:\capstone\new image\tree\harishan-kobalasingam-BRm3LcoA7jE-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3052</xmin>
+			<ymin>4</ymin>
+			<xmax>6000</xmax>
+			<ymax>2400</ymax>
+		</bndbox>
+	</object>
+</annotation>

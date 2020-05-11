@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tobelabeled</folder>
+	<filename>light_0416_7_093.jpg</filename>
+	<path>F:\MSDA\298B\traffic lights_0504\tobelabeled\light_0416_7_093.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>544</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red_light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>358</ymin>
+			<xmax>300</xmax>
+			<ymax>502</ymax>
+		</bndbox>
+	</object>
+</annotation>

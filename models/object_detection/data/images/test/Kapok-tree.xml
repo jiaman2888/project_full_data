@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>Kapok-tree.jpg</filename>
+	<path>F:\capstone\new images\tree\Kapok-tree.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>533</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>19</ymin>
+			<xmax>472</xmax>
+			<ymax>749</ymax>
+		</bndbox>
+	</object>
+</annotation>
