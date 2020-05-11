@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>pole0008.jpg</filename>
+	<path>C:\Users\Alex\Desktop\New folder\pole0008.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>utility_pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>104</ymin>
+			<xmax>310</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+</annotation>
