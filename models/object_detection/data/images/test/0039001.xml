@@ -1,0 +1,26 @@
+<annotation>
+	<folder>person_new_data</folder>
+	<filename>0039001.png</filename>
+	<path>C:\Users\Owner\Desktop\person_new_data\0039001.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>60</width>
+		<height>160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian_back</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>1</ymin>
+			<xmax>54</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+</annotation>

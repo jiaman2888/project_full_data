@@ -1,7 +1,7 @@
 <annotation>
-	<folder>tree</folder>
+	<folder>tree_utility_train_all</folder>
 	<filename>WX20200410-190511.png</filename>
-	<path>F:\capstone\google map pictures\tree\WX20200410-190511.png</path>
+	<path>C:\Users\Alex\Desktop\tree_utility_train_all-20200512T025417Z-001\tree_utility_train_all\WX20200410-190511.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>571</xmin>
-			<ymin>84</ymin>
-			<xmax>649</xmax>
-			<ymax>486</ymax>
+			<xmin>568</xmin>
+			<ymin>78</ymin>
+			<xmax>648</xmax>
+			<ymax>126</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>person_new_data</folder>
+	<filename>fishing_143.jpg</filename>
+	<path>C:\Users\Owner\Desktop\person_new_data\fishing_143.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>393</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian_back</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>38</ymin>
+			<xmax>115</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+</annotation>

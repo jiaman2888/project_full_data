@@ -1,26 +1,26 @@
 <annotation>
-	<folder>Bike_dandan_train</folder>
+	<folder>Backup</folder>
 	<filename>2117.jpg</filename>
-	<path>C:\Users\dandan zhao\Downloads\Bike_dandan_train-20200509T004610Z-001\Bike_dandan_train\2117.jpg</path>
+	<path>D:\youtube video\Images\Backup\2117.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>683</width>
-		<height>1024</height>
+		<width>1920</width>
+		<height>1080</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Bike_toward</name>
+		<name>vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>88</xmin>
-			<ymin>722</ymin>
-			<xmax>575</xmax>
-			<ymax>1019</ymax>
+			<xmin>1437</xmin>
+			<ymin>440</ymin>
+			<xmax>1859</xmax>
+			<ymax>635</ymax>
 		</bndbox>
 	</object>
 </annotation>

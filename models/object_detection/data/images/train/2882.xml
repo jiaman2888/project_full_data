@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Backup</folder>
+	<filename>2882.jpg</filename>
+	<path>D:\youtube video\Images\Backup\2882.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1363</xmin>
+			<ymin>694</ymin>
+			<xmax>1687</xmax>
+			<ymax>860</ymax>
+		</bndbox>
+	</object>
+</annotation>

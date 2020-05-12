@@ -1,26 +1,38 @@
 <annotation>
-	<folder>Bike_all</folder>
+	<folder>Mountain View Walk jpg - rename</folder>
 	<filename>1110.jpg</filename>
-	<path>/Users/hushengzhe/Desktop/Bike_all/1110.jpg</path>
+	<path>D:\Data298\Images\Mountain View Walk jpg - rename\1110.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>768</width>
-		<height>1024</height>
+		<width>1920</width>
+		<height>1080</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Bike_toward</name>
+		<name>vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>74</xmin>
-			<ymin>379</ymin>
-			<xmax>742</xmax>
-			<ymax>1001</ymax>
+			<xmin>911</xmin>
+			<ymin>494</ymin>
+			<xmax>1152</xmax>
+			<ymax>634</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>768</xmin>
+			<ymin>507</ymin>
+			<xmax>877</xmax>
+			<ymax>585</ymax>
 		</bndbox>
 	</object>
 </annotation>

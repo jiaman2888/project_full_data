@@ -1,0 +1,26 @@
+<annotation>
+	<folder>person_new_data</folder>
+	<filename>holding_an_umbrella_069.jpg</filename>
+	<path>C:\Users\Owner\Desktop\person_new_data\holding_an_umbrella_069.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>493</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian_back</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>273</xmin>
+			<ymin>200</ymin>
+			<xmax>333</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>
