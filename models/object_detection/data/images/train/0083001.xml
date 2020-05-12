@@ -1,13 +1,13 @@
 <annotation>
 	<folder>person_new_data</folder>
-	<filename>back-view-business-man-looks-260nw.jpg</filename>
-	<path>C:\Users\Owner\Desktop\person_new_data\back-view-business-man-looks-260nw.jpg</path>
+	<filename>0083001.png</filename>
+	<path>C:\Users\Owner\Desktop\person_new_data\0083001.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>0</width>
-		<height>0</height>
+		<width>60</width>
+		<height>160</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>26</xmin>
-			<ymin>6</ymin>
-			<xmax>123</xmax>
-			<ymax>258</ymax>
+			<xmin>7</xmin>
+			<ymin>3</ymin>
+			<xmax>54</xmax>
+			<ymax>156</ymax>
 		</bndbox>
 	</object>
 </annotation>
