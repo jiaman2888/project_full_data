@@ -1,0 +1,38 @@
+<annotation>
+	<folder>SJSU Walk - rename</folder>
+	<filename>3766.jpg</filename>
+	<path>D:\youtube video\Images\SJSU Walk - rename\3766.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>472</xmin>
+			<ymin>496</ymin>
+			<xmax>1613</xmax>
+			<ymax>940</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>589</ymin>
+			<xmax>118</xmax>
+			<ymax>655</ymax>
+		</bndbox>
+	</object>
+</annotation>

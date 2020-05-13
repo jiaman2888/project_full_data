@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Backup</folder>
+	<folder>SJSU Walk - rename</folder>
 	<filename>2117.jpg</filename>
-	<path>D:\youtube video\Images\Backup\2117.jpg</path>
+	<path>D:\youtube video\Images\SJSU Walk - rename\2117.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,18 @@
 			<ymin>440</ymin>
 			<xmax>1859</xmax>
 			<ymax>635</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1276</xmin>
+			<ymin>431</ymin>
+			<xmax>1459</xmax>
+			<ymax>539</ymax>
 		</bndbox>
 	</object>
 </annotation>

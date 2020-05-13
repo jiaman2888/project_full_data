@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Backup</folder>
+	<folder>Mountain View Walk jpg - rename</folder>
 	<filename>0393.jpg</filename>
-	<path>D:\youtube video\Images\Backup\0393.jpg</path>
+	<path>D:\youtube video\Images\Mountain View Walk jpg - rename\0393.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -11,6 +11,18 @@
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>414</ymin>
+			<xmax>892</xmax>
+			<ymax>695</ymax>
+		</bndbox>
+	</object>
 	<object>
 		<name>vehicle</name>
 		<pose>Unspecified</pose>

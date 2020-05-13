@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Mountain View Walk jpg - rename</folder>
+	<filename>0432.jpg</filename>
+	<path>D:\youtube video\Images\Mountain View Walk jpg - rename\0432.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>425</ymin>
+			<xmax>984</xmax>
+			<ymax>736</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1077</xmin>
+			<ymin>466</ymin>
+			<xmax>1271</xmax>
+			<ymax>564</ymax>
+		</bndbox>
+	</object>
+</annotation>

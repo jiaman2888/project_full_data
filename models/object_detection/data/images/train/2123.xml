@@ -1,26 +1,50 @@
 <annotation>
-	<folder>Bike_dandan_train</folder>
+	<folder>SJSU Walk - rename</folder>
 	<filename>2123.jpg</filename>
-	<path>C:\Users\dandan zhao\Downloads\Bike_dandan_train-20200509T004610Z-001\Bike_dandan_train\2123.jpg</path>
+	<path>D:\youtube video\Images\SJSU Walk - rename\2123.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1024</width>
-		<height>768</height>
+		<width>1920</width>
+		<height>1080</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Bike</name>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1537</xmin>
+			<ymin>407</ymin>
+			<xmax>1920</xmax>
+			<ymax>670</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>595</xmin>
-			<ymin>462</ymin>
-			<xmax>688</xmax>
-			<ymax>625</ymax>
+			<xmin>1282</xmin>
+			<ymin>392</ymin>
+			<xmax>1511</xmax>
+			<ymax>520</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1206</xmin>
+			<ymin>369</ymin>
+			<xmax>1327</xmax>
+			<ymax>451</ymax>
 		</bndbox>
 	</object>
 </annotation>

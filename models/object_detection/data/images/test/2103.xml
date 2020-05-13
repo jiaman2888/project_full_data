@@ -1,26 +1,62 @@
 <annotation>
-	<folder>Bike_vali</folder>
+	<folder>SJSU Walk - rename</folder>
 	<filename>2103.jpg</filename>
-	<path>/Users/hushengzhe/Desktop/Bike_vali/2103.jpg</path>
+	<path>D:\youtube video\Images\SJSU Walk - rename\2103.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1024</width>
-		<height>768</height>
+		<width>1920</width>
+		<height>1080</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Bike</name>
+		<name>vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>143</xmin>
-			<ymin>90</ymin>
-			<xmax>943</xmax>
-			<ymax>705</ymax>
+			<xmin>1344</xmin>
+			<ymin>451</ymin>
+			<xmax>1823</xmax>
+			<ymax>664</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1138</xmin>
+			<ymin>444</ymin>
+			<xmax>1344</xmax>
+			<ymax>562</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1028</xmin>
+			<ymin>439</ymin>
+			<xmax>1153</xmax>
+			<ymax>517</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>998</xmin>
+			<ymin>419</ymin>
+			<xmax>1079</xmax>
+			<ymax>477</ymax>
 		</bndbox>
 	</object>
 </annotation>
